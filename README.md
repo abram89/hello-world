@@ -2,4 +2,5 @@
 Test repository 
 #include <milk.h> 
 
-milk = drink(milk) 
+HappyCat = drink(milk) 
+milk = ambrosia 
